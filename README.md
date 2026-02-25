@@ -1,16 +1,64 @@
-## Hi there 👋
+# Liam Öhrberg
 
-<!--
-**lohrberg/lohrberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systemutvecklingsstudent vid Mittuniversitetet (examen 2026)  
+Inriktning: Verksamhetsnära IT, informationssystem och systemutveckling  
 
-Here are some ideas to get you started:
+Intresserad av roller inom systemanalys, verksamhetsnära IT och teknisk utveckling där jag kan kombinera teknisk förståelse med ett helhetsperspektiv på informationssystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Språk**
+- C#
+- Java
+- JavaScript / TypeScript
+- Kotlin
+- HTML / CSS
+
+**Ramverk & Plattformar**
+- .NET (WPF, MVVM)
+- Angular
+- Node.js / Express
+- Android (MVVM, Room)
+
+**Databaser**
+- MongoDB
+- PostgreSQL
+- SQLite
+
+**Övrigt**
+- REST API-design
+- Azure (deployment & hosting)
+- Git / GitHub
+- Programvarutestning (JUnit, xUnit, test coverage, mutation testing)
+
+---
+
+## 🚀 Utvalda Projekt
+
+### 📚 Course Manager  
+Fullstack webbapplikation (Angular + Node.js + MongoDB)  
+- Utvecklad med tydlig separation mellan frontend och backend  
+- REST API och datamodellering  
+- Deployad till Microsoft Azure  
+
+### 🎮 Bomberman (WPF, C#, MVVM)  
+- Grupprojekt med fokus på arkitektur och testbarhet  
+- Implementerad enligt MVVM-principer  
+- Enhetstester med xUnit  
+
+### 📱 Android Dialer App (Kotlin, MVVM, Room, Google Maps)  
+- Mobilapplikation med tydlig arkitekturstruktur  
+- Persistent datalagring via Room  
+- Runtime permissions och livscykelhantering  
+- Integration med Google Maps SDK  
+
+---
+
+## 🎯 Intresseområden
+
+- Systemanalys och kravarbete  
+- Verksamhetsnära IT  
+- Användarcentrerad utveckling  
+- Informationssystem och datamodellering  
