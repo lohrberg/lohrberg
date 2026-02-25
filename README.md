@@ -43,7 +43,7 @@ Fullstack webbapplikation (Angular + Node.js + MongoDB)
 - REST API och datamodellering  
 - Deployad till Microsoft Azure  
 
-### 🎮 Bomberman (WPF, C#, MVVM)  
+### 🎮 Bomberman (WPF, C#, MVVM) (https://github.com/lohrberg/Bomberman)  
 - Grupprojekt med fokus på arkitektur och testbarhet  
 - Implementerad enligt MVVM-principer  
 - Enhetstester med xUnit  
