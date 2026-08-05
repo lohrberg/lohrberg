@@ -50,9 +50,6 @@ Fullstack webbapplikation för kurs- och studenthantering.
 
 ---
 
-## 🎯 Intresseområden
+## 📬 Kontakta mig
 
-- Systemanalys och kravarbete  
-- Verksamhetsnära IT  
-- Användarcentrerad utveckling  
-- Informationssystem och datamodellering  
+- 📧 **E-post:** `lohrberg03 [at] gmail.com`
