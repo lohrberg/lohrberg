@@ -3,8 +3,6 @@
 **Systemvetare (Kandidatexamen i Informatik, Mittuniversitetet)**  
 Specialiserad på verksamhetsnära IT, systemanalys, UX/UI och fullstackutveckling.
 
-Jag brinner för att bygga och förvalta IT-system som kombinerar teknisk kvalitet med användarvänlighet, tillgänglighet och tydlig verksamhetsnytta.
-
 ---
 
 ## 🛠 Tech Stack & Verktyg
