@@ -1,8 +1,5 @@
 # Liam Öhrberg
 
-Systemutvecklingsstudent vid Mittuniversitetet (examen 2026)  
-Inriktning: Verksamhetsnära IT, informationssystem och systemutveckling  
-
 **Systemvetare (Kandidatexamen i Informatik, Mittuniversitetet)**  
 Specialiserad på verksamhetsnära IT, systemanalys, UX/UI och fullstackutveckling.
 
