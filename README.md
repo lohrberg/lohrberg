@@ -31,7 +31,7 @@ Jag brinner för att bygga och förvalta IT-system som kombinerar teknisk kvalit
 ## 🚀 Utvalda Projekt
 
 ### 🎮 [Bomberman (WPF, C#)](https://github.com/lohrberg/Bomberman)
-Desktopapplikation utvecklad som grupprojekt med fokus på ren arkitektur och hög testbarhet.
+Desktopapplikation utvecklad som grupprojekt med fokus på ren arkitektur.
 - Implementerad enligt **MVVM**-mönstret i C#.
 - Omfattande enhetstester skrivna i **xUnit**.
 
