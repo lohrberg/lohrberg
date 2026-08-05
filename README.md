@@ -3,56 +3,50 @@
 Systemutvecklingsstudent vid Mittuniversitetet (examen 2026)  
 Inriktning: Verksamhetsnära IT, informationssystem och systemutveckling  
 
-Intresserad av roller inom systemanalys, verksamhetsnära IT och teknisk utveckling där jag kan kombinera teknisk förståelse med ett helhetsperspektiv på informationssystem.
+**Systemvetare (Kandidatexamen i Informatik, Mittuniversitetet)**  
+Specialiserad på verksamhetsnära IT, systemanalys, UX/UI och fullstackutveckling.
+
+Jag brinner för att bygga och förvalta IT-system som kombinerar teknisk kvalitet med användarvänlighet, tillgänglighet och tydlig verksamhetsnytta.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Verktyg
 
-**Språk**
-- C#
-- Java
-- JavaScript / TypeScript
-- Kotlin
-- HTML / CSS
+**Systemanalys & UX/UI**
+- Kravhantering & Processmodellering
+- UX/UI-design & Prototyping (Figma)
+- Tillgänglighet (WCAG)
 
-**Ramverk & Plattformar**
-- .NET (WPF, MVVM)
-- Angular
-- Node.js / Express
-- Android (MVVM, Room)
+**Programmeringsspråk & Ramverk**
+- **Backend / Desktop:** C# (.NET, WPF, MVVM), Java, Node.js / Express, Kotlin (Android, Room)
+- **Frontend:** JavaScript, TypeScript, Angular, HTML5 / CSS3
 
-**Databaser**
-- MongoDB
-- PostgreSQL
-- SQLite
+**Databaser & Cloud**
+- PostgreSQL, MongoDB, SQLite
+- REST API-design & Swagger
+- Azure (Deployment & Hosting), Git / GitHub
 
-**Övrigt**
-- REST API-design
-- Azure (deployment & hosting)
-- Git / GitHub
-- Programvarutestning (JUnit, xUnit, test coverage, mutation testing)
+**Kvalitetssäkring & Testning**
+- Programvarutestning (JUnit, xUnit, Test coverage, Mutation testing)
 
 ---
 
 ## 🚀 Utvalda Projekt
 
-### 📚 Course Manager  
-Fullstack webbapplikation (Angular + Node.js + MongoDB)  
-- Utvecklad med tydlig separation mellan frontend och backend  
-- REST API och datamodellering  
-- Deployad till Microsoft Azure  
+### 🎮 [Bomberman (WPF, C#)](https://github.com/lohrberg/Bomberman)
+Desktopapplikation utvecklad som grupprojekt med fokus på ren arkitektur och hög testbarhet.
+- Implementerad enligt **MVVM**-mönstret i C#.
+- Omfattande enhetstester skrivna i **xUnit**.
 
-### 🎮 Bomberman (WPF, C#, MVVM) (https://github.com/lohrberg/Bomberman)  
-- Grupprojekt med fokus på arkitektur och testbarhet  
-- Implementerad enligt MVVM-principer  
-- Enhetstester med xUnit  
+### 📱 Android Dialer App (Kotlin)
+Mobilapplikation med lokal datalagring och kartintegration.
+- Byggd med **Kotlin**, **MVVM** och **Room Database** för persistent lagring.
+- Integration med **Google Maps SDK** samt hantering av runtime permissions och livscykler.
 
-### 📱 Android Dialer App (Kotlin, MVVM, Room, Google Maps)  
-- Mobilapplikation med tydlig arkitekturstruktur  
-- Persistent datalagring via Room  
-- Runtime permissions och livscykelhantering  
-- Integration med Google Maps SDK  
+### 📚 Course Manager
+Fullstack webbapplikation för kurs- och studenthantering.
+- Arkitektur med tydlig separation mellan frontend (**Angular**) och backend (**Node.js/Express**).
+- Datamodellering i **MongoDB** och deployad till **Microsoft Azure**.
 
 ---
 
