@@ -33,7 +33,7 @@ Desktopapplikation utvecklad som grupprojekt med fokus på ren arkitektur.
 - Implementerad enligt **MVVM**-mönstret i C#.
 - Omfattande enhetstester skrivna i **xUnit**.
 
-### 📱 Android Dialer App (Kotlin)
+### 📱 Android Dialer App (Kotlin)(https://github.com/lohrberg/Dialer)
 Mobilapplikation med lokal datalagring och kartintegration.
 - Byggd med **Kotlin**, **MVVM** och **Room Database** för persistent lagring.
 - Integration med **Google Maps SDK** samt hantering av runtime permissions och livscykler.
